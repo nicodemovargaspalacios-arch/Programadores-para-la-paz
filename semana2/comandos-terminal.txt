@@ -1,0 +1,13 @@
+Los comandos que utilice en la terminal fueron los siguientes:
+mkdir
+pkg install git 
+cd 
+ls 
+git status
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+git init 
+echo
+git config --global user.name
+git config --global user.email
