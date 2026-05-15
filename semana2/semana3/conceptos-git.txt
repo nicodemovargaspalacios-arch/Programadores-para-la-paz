@@ -1,0 +1,4 @@
+Explicacion de conceptos basicos de git
+Repositorio: Cuando nosotros los programadores empezamos un proyecto es necesario tener un lugar en el cual podamos organizar y hacer un seguimiento de las versiones de nuestros proyectos, a este lugar se le llama repositorio.
+Commit: El commmit es como tomar una captura del avance que tenemos de nuestro proyecto en un momento especifico. Nos sirve para guardar y hacer un seguimiento de las diferentes versiones del proyecto en el repositorio.
+Push: Un push es enviar informacion que se encuentra en una maquina local a otra en line, y nos siver para actualizar un proyecto en linea o agregar nuevas actualizaciones. Tambien cuando realizamos el push otras personas con acceso pueden ver nuestro proyecto. 
