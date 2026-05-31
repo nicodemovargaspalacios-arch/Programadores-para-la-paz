@@ -1,0 +1,2 @@
+¿Por qué es importante que las comunidades o iniciativas ciudadanas puedan construir herramientas tecnologicas propias utilizasdo abiertas como Node.js?
+Es esencial que las comunidades contruyamos nuestras propias herramientas tecnologicas porque nos permite la participarcion, ademas nos brinda mas seguridad y confianza, y por ultimo nos permite utilizar la tecnologia para resolver desafios en nuestras comunidades, convirtiendonos asi en creadores, mas no solo en consumidores.
