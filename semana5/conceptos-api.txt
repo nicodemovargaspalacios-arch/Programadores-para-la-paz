@@ -1,0 +1,4 @@
+Que hace esta ruta?
+Esta ruta indica que el servidor escucha solicitudes HTTP de tipo POSTy cuando alguien envia datos a traves de ese formulario se extrae la propiedad que es el mensaje el cual puede ser visto y el servidor responde que se recibio el mensaje.
+
+Esta ruta podria servir para una aplicacion comunitaria ya que, en esta es una ruta de entrada a traves de la cual los miembros de una comunidad pueden expresar lo que sucede en sus comunidades con respete y claridad.
