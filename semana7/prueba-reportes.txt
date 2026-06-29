@@ -1,0 +1,12 @@
+Prueba del sistema de reportesPrimero, usamos el sistema para registrar una queja sobre un poste de luz dañado. El servidor recibió los datos, guardó el reporte en su lista de tareas y le asignó un número de identificación automático (el ID).Después, revisamos la lista completa para ver si se había guardado. El servidor nos mostró la lista con la queja que acabábamos de anotar. Esto nos demuestra que el sistema funciona bien: permite guardar reportes nuevos y luego consultarlos en la pantalla mientras el programa siga encendido.
+Ejemplo 1:
+{
+  "tipo": "Contaninacion auditiva",
+  "descripcion": "Algunos vecinos tuvieron el equipo prendido hasta tarde el martes"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Inseguridad",
+  "descripcion": "Algunos vecinos han reportado el intento de robo por parte de sospechosos que utilizan patines para emprender la huida"
+}

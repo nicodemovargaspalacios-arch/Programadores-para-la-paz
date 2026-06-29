@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Contaninacion auditiva",
+  "descripcion": "Algunos vecinos tuvieron el equipo prendido hasta tarde el martes"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Inseguridad",
+  "descripcion": "Algunos vecinos han reportado el intento de robo por parte de sospechosos que utilizan patines para emprender la huida"
+}
