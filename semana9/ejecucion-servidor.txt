@@ -1,0 +1,7 @@
+¿Qué ocurre cuando ejecutas node server.js? R= Cuando se ejecuta el comando node server.js se inicializa el entorno de node.js carga, interpreta y arranca el codigo de JavaScript de ese archivo en la maquina que se ejecuta o el servidor en caso de que sea online. Además quiero exaltar que cuando se ejecuta node server.js se la consola donde se ejecuto el comando se pausa y para salir se debe ejecutar ctrol+c 
+¿Qué mensaje aparece en la terminal? R= Servidor ejecutandose en puerto 3000
+¿Qué sucede cuando visitas la ruta /estado? R= el servidor lee mi peticion, despues me direciona hacia mi puerto asignado desde mi cansola y me arroja el siguiente mensaje:
+{
+estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

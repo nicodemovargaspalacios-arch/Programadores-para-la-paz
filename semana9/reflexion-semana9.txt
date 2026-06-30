@@ -1,0 +1,2 @@
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades funcionen de manera estable y segura en un servidor?
+Si una plataformad tecnologica desea tener muchas interaciones y sobre todo ser funcional debe realizar mantenimiento periodicamente a la plataforma, revisar credenciales y crear copias de seguridad. Lo cual permitirá un buen funcionamiento del servidor y evitara que se caiga, aumentando asi la confianza y participacion de las personas. 

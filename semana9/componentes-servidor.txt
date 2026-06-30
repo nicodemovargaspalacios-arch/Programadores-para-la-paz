@@ -1,0 +1,5 @@
+Sistema operativo: Es el software que administra directamente el hardware de la computadora o servidor (procesador, memoria RAM, disco duro).
+Node.js: Es el entorno de ejecución que permite leer y entender el código JavaScript fuera de un navegador web.
+Aplicación server.js: Es el archivo de texto que contiene las instrucciones de código escritas por el programador.
+Puerto: Es un canal de comunicación digital numerado (por ejemplo: 3000, 8080) que el sistema operativo asigna a una aplicación para recibir conexiones externas.
+Logs: Son registros de texto generados automáticamente por la aplicación o el sistema operativo que guardan el historial de lo que sucede en tiempo real. 
