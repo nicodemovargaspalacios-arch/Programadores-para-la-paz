@@ -1,0 +1,14 @@
+¿Qué 2 tareas del backlog harías primero?
+Yo haria la de priotidad 1 y prioridad 2, ya que ambos casos exigen mayor prontitud en su respursta debido al tipo de mensaje que hay en la intrracion y los datos sencibles que pueden existir.
+¿Por qué son las más importantes?
+Porque es una urgencia y se administran datos sencibles.
+¿Qué significa para ti que una tarea esté “terminada”?
+Que ya pasó por el filtro desde la recepcion,verificacion,post checkeo, y finalmente esta 100% corroborada la informacion.
+
+Escribe una definición simple de terminado:
+
+Funciona.
+Fue probada.
+Quedó registrada en Git.
+Todo fue revisado 
+No exponedatos sencibles
