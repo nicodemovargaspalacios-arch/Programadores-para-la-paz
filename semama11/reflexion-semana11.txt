@@ -1,0 +1,2 @@
+¿Por qué una plataforma tecnológica que promueve participación ciudadana debe tener base de datos, autenticación de usuarios y protección de información?
+Una plataforma de este tipo deber tener una base de datos bien estructurada para que perminta el funcionamiento optimo de la misma, respondiendo peticiones y dando prioridad a las de mayor urgencia. Además debe tener Login para que la persona que ingresa tenga la credencial adecuado siguiendo el principio minimo de información. Y por ultimo la informacion debe ser protegida para que no haya fuga de datos.

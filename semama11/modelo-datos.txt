@@ -1,0 +1,23 @@
+Entidad: Causa: Junta de accion comunal
+
+Campos principales:
+- id: 12345678
+- titulo: Junta de accion comunal
+- descripcion
+- fecha: 12-07-2026
+
+Propósito:
+Guardar las causas comunitarias que serán visibles en la plataforma.
+
+
+Entidad: Apoyo: communicationnet
+
+Campos principales:
+- id: 87654321
+- causa_id: 
+- usuario: Inforcontroler
+- fecha: 12-07-2026
+
+Propósito:
+Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación.
+
